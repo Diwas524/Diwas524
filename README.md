@@ -33,3 +33,4 @@ During Bachelor in Computer Engineering, I started instagram page and website ba
 <a href="https://www.instagram.com/aihub_/">
   <img align="left" alt="Diwas Instagram" width="22px" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" />
 </a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=Diwas524.Diwas524" alt="Visitors Counter">
