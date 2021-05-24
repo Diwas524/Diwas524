@@ -3,11 +3,11 @@
 <a href="https://diwaspandey.com.np">
   <img align="left" alt="Diwas | Website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" />
 </a>
-<a href="https://www.linkedin.com/in/adarshreddyash/">
-  <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/diwas424/">
+  <img align="left" alt="Diwas LinkdeIN" width="22px" src="https://www.pngfind.com/pngs/m/57-571935_linkedin-icon-vector-png-linkedin-circle-logo-transparent.png" />
 </a>
-<a href="https://www.instagram.com/adarshreddyash/">
-  <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/aihub_/">
+  <img align="left" alt="Diwas Instagram" width="22px" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" />
 </a>
 <br />
 <br />
