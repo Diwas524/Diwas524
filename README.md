@@ -15,9 +15,7 @@
 Hi, I'm  a Computer Engineer 🚀 from Nepal, currently, I'm a Blogger 🙍🏽‍♂️ [@AIHUBPROJECTS.COM](https://aihubprojects.com), Freelancer 👨🏽‍💻, Beside's programming, I enjoy literature and traveling.
 
 
-![Diwas's github stats](https://github-readme-stats.vercel.app/api?username=Diwas524&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diwas524&layout=compact)
+![Diwas's github stats](https://github-readme-stats.vercel.app/api?username=Diwas524&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diwas524&layout=compact)
 
 
 📕 **Latest Blog Posts**
