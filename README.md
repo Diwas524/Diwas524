@@ -13,13 +13,11 @@
 <br />
 
 Hi, I'm  a Computer Engineer 🚀 from Nepal, currently, I'm a Blogger 🙍🏽‍♂️ [@AIHUBPROJECTS.COM](https://aihubprojects.com), Freelancer 👨🏽‍💻, Beside's programming, I enjoy literature and traveling.
-  
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Diwas524&hide_title=true&hide_border=true&langs_count=5)
 
 
 ![Diwas's github stats](https://github-readme-stats.vercel.app/api?username=Diwas524&show_icons=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diwas524&layout=compact)
 
 
 📕 **Latest Blog Posts**
