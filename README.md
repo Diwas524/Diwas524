@@ -18,3 +18,13 @@ Hi, I'm  a Computer Engineer 🚀 from Nepal, currently, I'm a Blogger 🙍🏽�
 
 
 ![Diwas's github stats](https://github-readme-stats.vercel.app/api?username=Diwas524&show_icons=true&hide_border=true)
+
+
+📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [Mathematical Explaination of K-Modes Clustering ](https://aihubprojects.com/k-modes-clustering-algorithm-mathematical-scratch-implementation/)
+- [K-Means Scratch Implemrntation Python](https://aihubprojects.com/k-means-clustering-from-scratch-python/)
+- [Visualizing & Prediction Corona cases](https://aihubprojects.com/visualizing-predicting-corona-cases/)
+- [Machine Learning From Scratch](https://aihubprojects.com/machine-learning-from-scratch-python/)
+<!-- BLOG-POST-LIST:END -->
+
