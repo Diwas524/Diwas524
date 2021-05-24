@@ -7,7 +7,7 @@ During Bachelor in Computer Engineering, I started instagram page and website ba
 - 🔭 Admin, Content writer on aihubprojects.com
 - 🌱 Published Kindle eBook on Python
 - 📫 Published Machine Learning From Scratch on Kindle
-- ⚡  4Marketing collaboration with various teams
+- ⚡  Marketing collaboration with various teams
 
 [Download Resume](https://diwaspandey.com.np)
 
