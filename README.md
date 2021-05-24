@@ -9,8 +9,10 @@
 <a href="https://www.instagram.com/aihub_/">
   <img align="left" alt="Diwas Instagram" width="22px" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" />
 </a>
-<br />
-<br />
+<br >
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Diwas Pandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krushnat-khavale/)](https://www.linkedin.com/in/diwas424/)
 
 Hi, I'm  a Computer Engineer 🚀 from Nepal, currently, I'm a Blogger 🙍🏽‍♂️ [@AIHUBPROJECTS.COM](https://aihubprojects.com), Freelancer 👨🏽‍💻, Beside's programming, I enjoy literature and traveling.
 
