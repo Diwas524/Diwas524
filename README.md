@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Diwas Pandey!](https://diwaspandey.com.np) 
 
-Hi, I'm  a Computer Engineer 🚀 from Nepal, currently, I'm a Blogger 🙍🏽‍♂️ [AIHUBPROJECTS.COM](https://aihubprojects.com), Freelancer 👨🏽‍💻. I have always had a passion for Programming. Python became my favorite language after using C,C++,JS,SQL, PHP etc. for Several years. Beside's programming, I enjoy literature and traveling.
+Hi, I'm  a Computer Engineer 🚀 currently, I'm a Blogger 🙍🏽‍♂️ [AIHUBPROJECTS.COM](https://aihubprojects.com), Freelancer 👨🏽‍💻. I have always had a passion for Programming. Python became my favorite language after using C,C++,JS,SQL, PHP etc. for Several years. Beside's programming, I enjoy literature and traveling.
 
 During Bachelor in Computer Engineering, I started instagram page and website based on Artificial Intelligence where I made multiple courses and published them on my website so that everyone can learn for FREE.
 
