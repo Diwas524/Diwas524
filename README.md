@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Diwas Pandey!](https://diwaspandey.com.np) 
 
-Hi, I'm  a Computer Engineer 🚀 currently, I'm a Blogger 🙍🏽‍♂️ [AIHUBPROJECTS.COM](https://aihubprojects.com), Freelancer 👨🏽‍💻. Having innate interest in the emerging technologies around the world, advancement in the field of Artificial Intelligence inspired me to gain profound knowledge in the field, intended to find solutions to real-life problems. Pursuit of knowledge has always been a cherished obsession and a dominating influence for me.
+I'm  a Computer Engineer 🚀 currently, I'm a Blogger 🙍🏽‍♂️ [AIHUBPROJECTS.COM](https://aihubprojects.com), Freelancer 👨🏽‍💻. Having innate interest in the emerging technologies around the world, advancement in the field of Artificial Intelligence inspired me to gain profound knowledge in the field, intended to find solutions to real-life problems. Pursuit of knowledge has always been a cherished obsession and a dominating influence for me.
 
 My innate interest in Artificial Intelligence began when I found myself fascinated by the projects done by seniors in one of the hackathons I attended. Curiosity is the first and the foremost quality which drives a person towards learning new things. My interest, passion, dedication in learning AI, enabled me to acquire significant knowledge on Python and mathematics behind every ML algorithm.
 
