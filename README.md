@@ -4,7 +4,7 @@ I'm  a Computer Engineer 🚀 currently, I'm a Blogger 🙍🏽‍♂️ [AIHUBP
 
 My innate interest in Artificial Intelligence began when I found myself fascinated by the projects done by seniors in one of the hackathons I attended. Curiosity is the first and the foremost quality which drives a person towards learning new things. My interest, passion, dedication in learning AI, enabled me to acquire significant knowledge on Python and mathematics behind every ML algorithm.
 
-I substantiated my knowledge by opening an instagram page and a website “aihubprojects.com” based on AI. My prodigious appetite for guiding others started from the moment I published my first python ebook on Amazon Kindle. This thrust spurred me to work assiduously and I published Machine Learning from Scratch tutorial series on my website. In the meantime, I created tutorials on various projects and shared them on Website as well as Instagram. Till date we are a 55k family on Instagram. Interacting with international students was a great opportunity to enhance my technical capabilities and abilities to dexterously manage various tasks and responsibilities.
+I substantiated my knowledge by opening an instagram page and a website “aihubprojects.com” based on AI. My prodigious appetite for guiding others started from the moment I published my first python ebook on Amazon Kindle. This thrust spurred me to work assiduously and I published Machine Learning from Scratch tutorial series on my website. In the meantime, I created tutorials on various projects and shared them on Website as well as Instagram.
 
 - 🔭 Admin, Content writer on aihubprojects.com
 - 🌱 Published Kindle eBook on Python
