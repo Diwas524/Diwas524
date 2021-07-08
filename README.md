@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Diwas Pandey!](https://diwaspandey.com.np) 
 
-<div style="width: 100px">
+<div style="text-align: justify">
       
 
 I'm  a Computer Engineer 🚀 currently, I'm a Blogger 🙍🏽‍♂️ @ [AIHUBPROJECTS.COM](https://aihubprojects.com), Freelancer 👨🏽‍💻.
