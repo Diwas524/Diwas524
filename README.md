@@ -11,7 +11,7 @@
 <div style="text-align: justify">
       
 
-I'm  a Computer Engineer 🚀 currently, I'm an associated ML Engineer at Bottle Technology. Also, i am Blogger 🙍🏽‍♂️ @ [AIHUBPROJECTS.COM](https://aihubprojects.com), Freelancer 👨🏽‍💻.
+I'm  a Computer Engineer 🚀 currently, I'm an associate ML Engineer at Bottle Technology. Also, i am Blogger 🙍🏽‍♂️ @ [AIHUBPROJECTS.COM](https://aihubprojects.com), Freelancer 👨🏽‍💻.
 
 My innate interest in Artificial Intelligence began when I found myself fascinated by the projects done by seniors in one of the hackathons I attended. Curiosity is the first and the foremost quality which drives a person towards learning new things. My interest, passion, dedication in learning AI, enabled me to acquire significant knowledge on Python and mathematics behind every ML algorithm.
 
