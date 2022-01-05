@@ -24,6 +24,8 @@ Currently, I am working as a team lead and associate ML Engineer at Bottle Techn
 - 📫 Published Machine Learning From Scratch on Kindle
 - ⚡  Marketing collaboration with various teams
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diwas524" alt="diwas524" /></a> </p>
+
 [Download Resume](https://diwaspandey.com.np)
 
 ![Diwas's github stats](https://github-readme-stats.vercel.app/api?username=Diwas524&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/diwas524">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diwas524&layout=compact&theme=dark)](https://github.com/diwas524)</a>
