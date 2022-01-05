@@ -40,5 +40,6 @@ Currently, I am working as a team lead and associate ML Engineer at Bottle Techn
 - [Machine Learning From Scratch](https://aihubprojects.com/machine-learning-from-scratch-python/)
 <!-- BLOG-POST-LIST:END -->
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwas524&" alt="diwas524" /></p>
 
  <img src="https://visitor-badge.glitch.me/badge?page_id=Diwas524.Diwas524" alt="Visitors Counter">
