@@ -2,8 +2,8 @@
 
 <p>
     <a href="mailto:diwaspandey524@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://www.instagram.com/aihub_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>  
-  <a href="https://www.linkedin.com/in/diwas424"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://www.instagram.com/diwaspandey1"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>  
+  <a href="https://www.linkedin.com/in/diwas524"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://www.instagram.com/diwas_4p"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>  
 
 </p>
 
