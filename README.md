@@ -18,12 +18,12 @@ My fascination with Artificial Intelligence started when I saw the impressive pr
 I am currently engaged in my graduate thesis, titled "Biomarkers on ECG Data". For my graduate thesis, I am conducting a detailed analysis of electrocardiogram (ECG) data to identify pertinent patterns and characteristics that could serve as biomarkers. The study aims to highlight the vital role these biomarkers play in enhancing healthcare outcomes.
   
   </div>
+  
 - ⚡ Pursuing a Master's in Computer Science at Washington State University
 - 📫 Former team lead & Machine Learning Engineer at Bottle Technology
 - 🔭 Admin, Content writer on aihubprojects.com
 - 🌱 Published Kindle eBook on Python
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diwas524" alt="diwas524" /></a> </p>
 
 [Download Resume](https://diwaspandey.com.np)
 
