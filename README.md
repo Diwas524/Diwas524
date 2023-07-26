@@ -9,25 +9,24 @@
 
 <div style="text-align: justify">
       
+I am a Computer Engineer with a passion for Artificial Intelligence 🚀 Currently, I am pursuing a Master's in Computer Science at Washington State University, WA, USA.
+ Also, i am Blogger 🙍🏽‍♂️ @ [AIHUBPROJECTS.COM](https://aihubprojects.com), Freelancer 👨🏽‍💻.
 
-I'm  a Computer Engineer 🚀 currently, I'm an associate ML Engineer at Bottle Technology. Also, i am Blogger 🙍🏽‍♂️ @ [AIHUBPROJECTS.COM](https://aihubprojects.com), Freelancer 👨🏽‍💻.
 
-My interest in Artificial Intelligence began when I found myself fascinated by the projects done by seniors in one of the hackathons attended. My hunt for AI kept on growing. I took part in many hackathons and coding competitions. Similarly, during the sixth semester, I created an Instagram page (@aihub_) and a website named “aihubprojects.com” where I have shared various tutorials on Python, Machine Learning from scratch and AI Projects. It has become a platform to collaborate with various AI enthusiasts across the globe. We have built a freelance team of six people and have worked on various ML projects as freelancers. Some of the freelance projects I was part of were: employee attendance using face recognition, number plate recognition system for parking, creating a fake dataset of Japanese vehicle license plates, and face mask detection.
+My fascination with Artificial Intelligence started when I saw the impressive projects my seniors presented during a hackathon. This sparked my interest, and I delved deeper into AI. Participating in numerous hackathons and coding competitions further fueled my passion. During my sixth semester, I created an Instagram page (@aihub_) and a website called "aihubprojects.com." On these platforms, I shared tutorials on Python, Machine Learning from scratch, and AI Projects. They have become a hub for collaborating with AI enthusiasts worldwide. Together, we formed a freelance team of six talented individuals and worked on various ML projects.
 
-Currently, I am pursuing Masters  
+I am currently engaged in my graduate thesis, titled "Biomarkers on ECG Data". For my graduate thesis, I am conducting a detailed analysis of electrocardiogram (ECG) data to identify pertinent patterns and characteristics that could serve as biomarkers. The study aims to highlight the vital role these biomarkers play in enhancing healthcare outcomes.
   
   </div>
-
+- ⚡ Pursuing a Master's in Computer Science at Washington State University
+- 📫 Former team lead & Machine Learning Engineer at Bottle Technology
 - 🔭 Admin, Content writer on aihubprojects.com
 - 🌱 Published Kindle eBook on Python
-- 📫 Published Machine Learning From Scratch on Kindle
-- ⚡  Marketing collaboration with various teams
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diwas524" alt="diwas524" /></a> </p>
 
 [Download Resume](https://diwaspandey.com.np)
 
-![Diwas's github stats](https://github-readme-stats.vercel.app/api?username=Diwas524&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/diwas524">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diwas524&layout=compact&theme=dark)](https://github.com/diwas524)</a>
   
 
 
@@ -38,7 +37,3 @@ Currently, I am pursuing Masters
 - [Visualizing & Prediction Corona cases](https://aihubprojects.com/visualizing-predicting-corona-cases/)
 - [Machine Learning From Scratch](https://aihubprojects.com/machine-learning-from-scratch-python/)
 <!-- BLOG-POST-LIST:END -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwas524&" alt="diwas524" /></p>
-
- <img src="https://visitor-badge.glitch.me/badge?page_id=Diwas524.Diwas524" alt="Visitors Counter">
