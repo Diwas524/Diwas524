@@ -9,13 +9,9 @@
 
 <div style="text-align: justify">
       
-I am a Computer Engineer with a passion for Artificial Intelligence 🚀 Currently, I am pursuing a Master's in Computer Science at Washington State University, WA, USA.
- Also, i am Blogger 🙍🏽‍♂️ @ [AIHUBPROJECTS.COM](https://aihubprojects.com), Freelancer 👨🏽‍💻.
+I am Diwas Pandey, an aspiring graduate with an M.S. in Computer Science from Washington State University (current GPA: 4.00). My academic journey has equipped me with comprehensive knowledge in Artificial Intelligence, Machine Learning, Neural Networks, and Computer Vision. I hold a B.E. in Computer Engineering from Tribhuvan University, Nepal, and bring practical experience from projects like real-time number plate recognition and bio-marker analysis from ECG data.
 
-
-My fascination with Artificial Intelligence started when I saw the impressive projects my seniors presented during a hackathon. This sparked my interest, and I delved deeper into AI. Participating in numerous hackathons and coding competitions further fueled my passion. During my sixth semester, I created an Instagram page (@aihub_) and a website called "aihubprojects.com." On these platforms, I shared tutorials on Python, Machine Learning from scratch, and AI Projects. They have become a hub for collaborating with AI enthusiasts worldwide. Together, we formed a freelance team of six talented individuals and worked on various ML projects.
-
-I am currently engaged in my graduate thesis, titled "Biomarkers on ECG Data". For my graduate thesis, I am conducting a detailed analysis of electrocardiogram (ECG) data to identify pertinent patterns and characteristics that could serve as biomarkers. The study aims to highlight the vital role these biomarkers play in enhancing healthcare outcomes.
+Eager to launch my career, I am actively seeking entry-level roles in Machine Learning. My research endeavors and hands-on projects have honed my skills in Python, C++, Scikit-learn, OpenCV, PyTorch, and AWS. As a Team Lead and Machine Learning Engineer II, I successfully led projects at Bottle Technology, Pvt. Ltd., enhancing Nepali Citizenship data and implementing a Smart Advertisement system. My entrepreneurial spirit is reflected in founding aihubprojects.com, where I authored a book, published articles, and collaborated with renowned institutions. I am excited about contributing my skills to a dynamic team and making a meaningful impact in the field of Machine Learning.  
   
   </div>
   
